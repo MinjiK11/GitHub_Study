@@ -121,7 +121,8 @@ Fast Forward
 
 가지가 생겨난 경우
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/0e37921e-d31d-40fb-92d8-3dc801e16cda/a4f502ee-31bb-4b02-ab80-025753352d84/Untitled.png)
+![image](https://github.com/MinjiK11/hello-world/assets/97442492/f9f23da4-2b50-47b9-90af-7570025cabdf)
+
 
 - 과거의 커밋으로부터 브랜치를 생성해서 작업
 - 새로운 브랜치 작업 이후 헤드에 새 커밋
