@@ -108,3 +108,24 @@
 - 기존 내용 유지한 채 새로운 내용 추가하고 싶을 때 사용
 - 최종본은 main 브랜치에
 
+### merge
+
+[Learn Git Branching](https://learngitbranching.js.org/)
+
+- 하나의 브랜치를 현재 브랜치와 합치는 것
+
+Fast Forward
+
+- 헤드 브랜치에 변경 사항 X
+- 병합 대상 브랜치가 헤드로부터 시작
+
+가지가 생겨난 경우
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/0e37921e-d31d-40fb-92d8-3dc801e16cda/a4f502ee-31bb-4b02-ab80-025753352d84/Untitled.png)
+
+- 과거의 커밋으로부터 브랜치를 생성해서 작업
+- 새로운 브랜치 작업 이후 헤드에 새 커밋
+- 여러 브랜치 동시에 작업하면서 병합
+- 여러 브랜치에서 동시에 변경한 파일 존재 → 충돌 발생 가능
+    
+    가장 최신의 내용 하나만 선택 (보통 타겟 브랜치에 존재)
