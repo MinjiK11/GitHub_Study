@@ -137,7 +137,8 @@
     - merge의 방식을 명시하라는 에러
     
     [해결]
-  ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/0e37921e-d31d-40fb-92d8-3dc801e16cda/86c240de-926e-4332-bf3b-c84fce2f1ef1/Untitled.png)
+  ![image](https://github.com/MinjiK11/hello-world/assets/97442492/f24166af-5a12-48dd-a8ed-19d88c055598)
+
 **충돌**
 - 주로 두 커밋이 같은 파일 동시에 편집할 경우 발생
 - 수동으로 해결 (에디터 이용)
