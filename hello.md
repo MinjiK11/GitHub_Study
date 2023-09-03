@@ -149,3 +149,5 @@ Fast Forward
 - checkout
 - 변경 사항 수정 후 commit → main에 merge (충돌 해결; 저장소 것을 사용)
 - 트리가 지저분해짐
+
+## Rebase 연습
